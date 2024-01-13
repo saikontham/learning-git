@@ -1,0 +1,2 @@
+consolelog("Hi");
+
